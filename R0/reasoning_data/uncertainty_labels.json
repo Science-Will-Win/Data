@@ -1,0 +1,2532 @@
+[
+  {
+    "task_id": "eval1_gwas_variant_prioritization_134",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 10,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_178",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "easy",
+    "num_steps": 8,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_116",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_190",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_187",
+    "task_type": "screen_gene_retrieval",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_313",
+    "task_type": "screen_gene_retrieval",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_448",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_47",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 17,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_489",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "easy",
+    "num_steps": 8,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_105",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 46,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_80",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 46,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_306",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 24,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1435",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1158",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1572",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_75",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "easy",
+    "num_steps": 0,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_37",
+    "task_type": "rare_disease_diagnosis",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 34,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_197",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_63",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_54",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_107",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_50",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_211",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_169",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_58",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 40,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_88",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 30,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_21",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 18,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_160",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_207",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_187",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_129",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_203",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 22,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_1",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_149",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_103",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_99",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_121",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 24,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_188",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 18,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_71",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_106",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_14",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 36,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_179",
+    "task_type": "gwas_variant_prioritization",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_236",
+    "task_type": "screen_gene_retrieval",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_212",
+    "task_type": "screen_gene_retrieval",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_201",
+    "task_type": "screen_gene_retrieval",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 22,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_161",
+    "task_type": "screen_gene_retrieval",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 34,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_43",
+    "task_type": "screen_gene_retrieval",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 22,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_80",
+    "task_type": "screen_gene_retrieval",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 48,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_263",
+    "task_type": "screen_gene_retrieval",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_91",
+    "task_type": "screen_gene_retrieval",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_264",
+    "task_type": "screen_gene_retrieval",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 24,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_54",
+    "task_type": "screen_gene_retrieval",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 38,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_533",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 10,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_430",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 10,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_547",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 15,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_571",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "easy",
+    "num_steps": 8,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_359",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_215",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 40,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_61",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 10,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_406",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 10,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_417",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_327",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_200",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 22,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_134",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_524",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "easy",
+    "num_steps": 6,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_505",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "easy",
+    "num_steps": 4,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_378",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_288",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "easy",
+    "num_steps": 4,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_418",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_391",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 22,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_498",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "easy",
+    "num_steps": 8,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_138",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 18,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_62",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_471",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_583",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "easy",
+    "num_steps": 8,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_520",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_64",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 10,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_492",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "easy",
+    "num_steps": 4,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_379",
+    "task_type": "lab_bench_seqqa",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 10,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_251",
+    "task_type": "patient_gene_detection",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_339",
+    "task_type": "patient_gene_detection",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 38,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_166",
+    "task_type": "patient_gene_detection",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_328",
+    "task_type": "patient_gene_detection",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 30,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_480",
+    "task_type": "patient_gene_detection",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 37,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1475",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_959",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_283",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 18,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1538",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_800",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1612",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_586",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1640",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_207",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 1.0,
+    "success": true,
+    "uncertainty": 0.1,
+    "difficulty": "hard",
+    "num_steps": 19,
+    "should_refuse": false
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_174",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 30,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_48",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 22,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_57",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_37",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_157",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_52",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_130",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_151",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 80,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_87",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_202",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_74",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_214",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_20",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 56,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_92",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 50,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_variant_prioritization_102",
+    "task_type": "gwas_variant_prioritization",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 34,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_302",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 42,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_207",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 46,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_317",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_251",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_339",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 44,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_318",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_269",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_217",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 40,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_259",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 18,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_105",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 24,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_53",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 10,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_1",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 18,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_49",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 10,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_205",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 24,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_34",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_52",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_241",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 22,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_13",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_88",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 58,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_273",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_166",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 50,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_342",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_134",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 18,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_306",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 34,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_334",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_243",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 56,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_50",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_174",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_189",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_346",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_169",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 18,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_58",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_48",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_235",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_252",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 30,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_21",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 52,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_screen_gene_retrieval_160",
+    "task_type": "screen_gene_retrieval",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_256",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 44,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_563",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "easy",
+    "num_steps": 8,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_100",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "easy",
+    "num_steps": 6,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_226",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_171",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 36,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_98",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_292",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 46,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_32",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 10,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_27",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_260",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_128",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_14",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "easy",
+    "num_steps": 8,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_156",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 30,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_40",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 25,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_187",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_lab_bench_seqqa_52",
+    "task_type": "lab_bench_seqqa",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "easy",
+    "num_steps": 8,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_212",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_295",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 22,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_457",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_488",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_486",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 52,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_303",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_350",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 44,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_269",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_201",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 40,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_161",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 38,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_43",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_401",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 34,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_190",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_309",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 24,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_259",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 36,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_53",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 30,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_389",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_441",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 48,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_482",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 42,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_49",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_419",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 34,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_205",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_34",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_263",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 36,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_427",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 34,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_366",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 42,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_91",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_52",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_345",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 40,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_264",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_241",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_13",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 40,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_315",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 56,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_88",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 34,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_273",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_492",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 29,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_134",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 38,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_patient_gene_detection_319",
+    "task_type": "patient_gene_detection",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 34,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1588",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 18,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_797",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1378",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_225",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_26",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1497",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 24,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_437",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1645",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_229",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_37",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 44,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_749",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1045",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 36,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_469",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 42,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1662",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 25,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_687",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 52,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1554",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 34,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_639",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1453",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 14,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1218",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 22,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1403",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1300",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 20,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_160",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_956",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1186",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_821",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1463",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 24,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_877",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 50,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_913",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 54,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_152",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 38,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1549",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 24,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_509",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 16,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1135",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1250",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 40,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_103",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "medium",
+    "num_steps": 12,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_1143",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 17,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_53",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 26,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_151",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 24,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_gwas_causal_gene_pharmaprojects_403",
+    "task_type": "gwas_causal_gene_pharmaprojects",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 22,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_48",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_107",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 46,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_21",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 50,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_57",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_32",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 34,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_140",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 22,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_59",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 50,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_63",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 22,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_132",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 42,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_52",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 24,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_130",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 30,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_103",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 52,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_99",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 28,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_87",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_74",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 32,
+    "should_refuse": true
+  },
+  {
+    "task_id": "eval1_rare_disease_diagnosis_121",
+    "task_type": "rare_disease_diagnosis",
+    "score": 0.0,
+    "success": false,
+    "uncertainty": 0.9,
+    "difficulty": "hard",
+    "num_steps": 30,
+    "should_refuse": true
+  }
+]
