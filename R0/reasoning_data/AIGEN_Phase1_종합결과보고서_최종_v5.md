@@ -8,7 +8,7 @@ Biomni-R0 vs GPT-4.1 비교 분석 | Dual-Judge PRM | Phase 2 인수인계
 
 2026년 2월 14일 (최종본 v5)
 
-작성: Phase 1 팀 (Hoony) | 검토: 이상훈 수석연구원
+작성: Phase 1 팀 (Hoony)
 
 AIGEN Sciences × Modulabs
 
