@@ -1,0 +1,444 @@
+{"task_id": "eval1_gwas_variant_prioritization_134", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs4253311", "ground_truth": "rs4253311"}
+{"task_id": "eval1_gwas_variant_prioritization_134_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs4253311", "ground_truth": "rs4253311"}
+{"task_id": "eval1_gwas_variant_prioritization_178", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs9369898", "ground_truth": "rs9369898"}
+{"task_id": "eval1_gwas_variant_prioritization_178_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs9369898", "ground_truth": "rs9369898"}
+{"task_id": "eval1_gwas_variant_prioritization_197", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs7542172", "ground_truth": "rs7542172"}
+{"task_id": "eval1_gwas_variant_prioritization_197_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs7542172", "ground_truth": "rs7542172"}
+{"task_id": "eval1_gwas_variant_prioritization_63", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs1801725", "ground_truth": "rs1801725"}
+{"task_id": "eval1_gwas_variant_prioritization_63_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs1801725", "ground_truth": "rs1801725"}
+{"task_id": "eval1_gwas_variant_prioritization_54", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs4343", "ground_truth": "rs4343"}
+{"task_id": "eval1_gwas_variant_prioritization_107", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs6048216", "ground_truth": "rs6048216"}
+{"task_id": "eval1_gwas_variant_prioritization_107_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs6048216", "ground_truth": "rs6048216"}
+{"task_id": "eval1_gwas_variant_prioritization_50", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs603424", "ground_truth": "rs603424"}
+{"task_id": "eval1_gwas_variant_prioritization_50_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs603424", "ground_truth": "rs603424"}
+{"task_id": "eval1_gwas_variant_prioritization_211", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs6687813", "ground_truth": "rs6687813"}
+{"task_id": "eval1_gwas_variant_prioritization_211_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs6687813", "ground_truth": "rs6687813"}
+{"task_id": "eval1_gwas_variant_prioritization_169", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs532545", "ground_truth": "rs532545"}
+{"task_id": "eval1_gwas_variant_prioritization_169_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs532545", "ground_truth": "rs532545"}
+{"task_id": "eval1_gwas_variant_prioritization_58", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs116843064", "ground_truth": "rs116843064"}
+{"task_id": "eval1_gwas_variant_prioritization_58_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs116843064", "ground_truth": "rs116843064"}
+{"task_id": "eval1_gwas_variant_prioritization_88", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs2160860", "ground_truth": "rs2160860"}
+{"task_id": "eval1_gwas_variant_prioritization_88_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs2160860", "ground_truth": "rs2160860"}
+{"task_id": "eval1_gwas_variant_prioritization_21", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs4949874", "ground_truth": "rs4949874"}
+{"task_id": "eval1_gwas_variant_prioritization_21_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs4949874", "ground_truth": "rs4949874"}
+{"task_id": "eval1_gwas_variant_prioritization_160", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs17279437", "ground_truth": "rs17279437"}
+{"task_id": "eval1_gwas_variant_prioritization_160_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs17279437", "ground_truth": "rs17279437"}
+{"task_id": "eval1_gwas_variant_prioritization_207", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs12150660", "ground_truth": "rs12150660"}
+{"task_id": "eval1_gwas_variant_prioritization_207_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs12150660", "ground_truth": "rs12150660"}
+{"task_id": "eval1_gwas_variant_prioritization_187", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs4687717", "ground_truth": "rs4687717"}
+{"task_id": "eval1_gwas_variant_prioritization_129", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs4814176", "ground_truth": "rs4814176"}
+{"task_id": "eval1_gwas_variant_prioritization_129_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs4814176", "ground_truth": "rs4814176"}
+{"task_id": "eval1_gwas_variant_prioritization_37_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs2270968", "ground_truth": "rs2270968"}
+{"task_id": "eval1_gwas_variant_prioritization_203", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs2040771", "ground_truth": "rs2040771"}
+{"task_id": "eval1_gwas_variant_prioritization_203_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs2040771", "ground_truth": "rs2040771"}
+{"task_id": "eval1_gwas_variant_prioritization_1", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs9637599", "ground_truth": "rs9637599"}
+{"task_id": "eval1_gwas_variant_prioritization_1_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs9637599", "ground_truth": "rs9637599"}
+{"task_id": "eval1_gwas_variant_prioritization_149", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs13375749", "ground_truth": "rs13375749"}
+{"task_id": "eval1_gwas_variant_prioritization_149_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs13375749", "ground_truth": "rs13375749"}
+{"task_id": "eval1_gwas_variant_prioritization_103", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs2576452", "ground_truth": "rs2576452"}
+{"task_id": "eval1_gwas_variant_prioritization_99", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs5030062", "ground_truth": "rs5030062"}
+{"task_id": "eval1_gwas_variant_prioritization_99_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs5030062", "ground_truth": "rs5030062"}
+{"task_id": "eval1_gwas_variant_prioritization_116", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs3738934", "ground_truth": "rs3738934"}
+{"task_id": "eval1_gwas_variant_prioritization_116_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs3738934", "ground_truth": "rs3738934"}
+{"task_id": "eval1_gwas_variant_prioritization_202_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs2073547", "ground_truth": "rs2073547"}
+{"task_id": "eval1_gwas_variant_prioritization_74_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs2366858", "ground_truth": "rs2366858"}
+{"task_id": "eval1_gwas_variant_prioritization_121", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs10455872", "ground_truth": "rs10455872"}
+{"task_id": "eval1_gwas_variant_prioritization_121_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs10455872", "ground_truth": "rs10455872"}
+{"task_id": "eval1_gwas_variant_prioritization_20_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs7529794", "ground_truth": "rs7529794"}
+{"task_id": "eval1_gwas_variant_prioritization_188", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs6073958", "ground_truth": "rs6073958"}
+{"task_id": "eval1_gwas_variant_prioritization_188_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs6073958", "ground_truth": "rs6073958"}
+{"task_id": "eval1_gwas_variant_prioritization_71", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs7159888", "ground_truth": "rs7159888"}
+{"task_id": "eval1_gwas_variant_prioritization_71_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs7159888", "ground_truth": "rs7159888"}
+{"task_id": "eval1_gwas_variant_prioritization_106", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs7954638", "ground_truth": "rs7954638"}
+{"task_id": "eval1_gwas_variant_prioritization_106_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs7954638", "ground_truth": "rs7954638"}
+{"task_id": "eval1_gwas_variant_prioritization_14", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs10087900", "ground_truth": "rs10087900"}
+{"task_id": "eval1_gwas_variant_prioritization_14_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs10087900", "ground_truth": "rs10087900"}
+{"task_id": "eval1_gwas_variant_prioritization_92_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs7883218", "ground_truth": "rs7883218"}
+{"task_id": "eval1_gwas_variant_prioritization_179", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "rs1800562", "ground_truth": "rs1800562"}
+{"task_id": "eval1_gwas_variant_prioritization_179_gpt", "task_type": "gwas_variant_prioritization", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "rs1800562", "ground_truth": "rs1800562"}
+{"task_id": "eval1_screen_gene_retrieval_236", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "VMP1", "ground_truth": "VMP1"}
+{"task_id": "eval1_screen_gene_retrieval_236_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "VMP1", "ground_truth": "VMP1"}
+{"task_id": "eval1_screen_gene_retrieval_212", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "STAT1", "ground_truth": "STAT1"}
+{"task_id": "eval1_screen_gene_retrieval_212_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "STAT1", "ground_truth": "STAT1"}
+{"task_id": "eval1_screen_gene_retrieval_317_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "NAA10", "ground_truth": "NAA10"}
+{"task_id": "eval1_screen_gene_retrieval_318_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "DOHH", "ground_truth": "DOHH"}
+{"task_id": "eval1_screen_gene_retrieval_201", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "GABARAP", "ground_truth": "GABARAP"}
+{"task_id": "eval1_screen_gene_retrieval_201_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "GABARAP", "ground_truth": "GABARAP"}
+{"task_id": "eval1_screen_gene_retrieval_161", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "SCAP", "ground_truth": "SCAP"}
+{"task_id": "eval1_screen_gene_retrieval_161_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SCAP", "ground_truth": "SCAP"}
+{"task_id": "eval1_screen_gene_retrieval_43", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "UBE2J1", "ground_truth": "UBE2J1"}
+{"task_id": "eval1_screen_gene_retrieval_217_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "EIF4A3", "ground_truth": "EIF4A3"}
+{"task_id": "eval1_screen_gene_retrieval_190", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "KEAP1", "ground_truth": "KEAP1"}
+{"task_id": "eval1_screen_gene_retrieval_190_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "KEAP1", "ground_truth": "KEAP1"}
+{"task_id": "eval1_screen_gene_retrieval_105_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "NF2", "ground_truth": "NF2"}
+{"task_id": "eval1_screen_gene_retrieval_1_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "KEAP1", "ground_truth": "KEAP1"}
+{"task_id": "eval1_screen_gene_retrieval_80", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "MED19", "ground_truth": "MED19"}
+{"task_id": "eval1_screen_gene_retrieval_80_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "MED19", "ground_truth": "MED19"}
+{"task_id": "eval1_screen_gene_retrieval_263", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "XPR1", "ground_truth": "XPR1"}
+{"task_id": "eval1_screen_gene_retrieval_91", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "ACSL4", "ground_truth": "ACSL4"}
+{"task_id": "eval1_screen_gene_retrieval_91_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ACSL4", "ground_truth": "ACSL4"}
+{"task_id": "eval1_screen_gene_retrieval_264", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "ARF1", "ground_truth": "ARF1"}
+{"task_id": "eval1_screen_gene_retrieval_264_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ARF1", "ground_truth": "ARF1"}
+{"task_id": "eval1_screen_gene_retrieval_13_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SMCHD1", "ground_truth": "SMCHD1"}
+{"task_id": "eval1_screen_gene_retrieval_134_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ANPEP", "ground_truth": "ANPEP"}
+{"task_id": "eval1_screen_gene_retrieval_54", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "PYCARD", "ground_truth": "PYCARD"}
+{"task_id": "eval1_screen_gene_retrieval_54_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PYCARD", "ground_truth": "PYCARD"}
+{"task_id": "eval1_screen_gene_retrieval_174_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "BEND3", "ground_truth": "BEND3"}
+{"task_id": "eval1_screen_gene_retrieval_187", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "ACE2", "ground_truth": "ACE2"}
+{"task_id": "eval1_screen_gene_retrieval_187_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ACE2", "ground_truth": "ACE2"}
+{"task_id": "eval1_screen_gene_retrieval_58_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ZCCHC14", "ground_truth": "ZCCHC14"}
+{"task_id": "eval1_screen_gene_retrieval_235_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "VMP1", "ground_truth": "VMP1"}
+{"task_id": "eval1_screen_gene_retrieval_252_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PFKP", "ground_truth": "PFKP"}
+{"task_id": "eval1_screen_gene_retrieval_313", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "ACE2", "ground_truth": "ACE2"}
+{"task_id": "eval1_screen_gene_retrieval_313_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ACE2", "ground_truth": "ACE2"}
+{"task_id": "eval1_screen_gene_retrieval_160_gpt", "task_type": "screen_gene_retrieval", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "TADA2B", "ground_truth": "TADA2B"}
+{"task_id": "eval1_lab_bench_seqqa_256_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_563_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_seqqa_533", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_seqqa_533_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_seqqa_430", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "E", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_430_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_100_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_seqqa_226_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_448", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_seqqa_448_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_seqqa_547", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_seqqa_547_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_seqqa_571", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_seqqa_571_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_seqqa_213_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_359", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "E", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_359_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_171_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_98_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_292_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_seqqa_215", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_215_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_61", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_61_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_406", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_seqqa_406_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_seqqa_47", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_seqqa_47_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_seqqa_32_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_417", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_seqqa_417_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_seqqa_267_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_seqqa_327", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_327_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_200", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_200_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_134", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "E", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_134_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_27_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_seqqa_524", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "E", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_524_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_505", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_505_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_230_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_489", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_489_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_260_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_seqqa_378", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_378_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_288", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_288_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_418", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "D", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_seqqa_418_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_seqqa_391", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "D", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_seqqa_391_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_seqqa_498", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_498_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_138", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_seqqa_138_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_seqqa_62", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_62_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_471", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "E", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_471_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_128_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_583", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_seqqa_583_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_seqqa_520", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "D", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_seqqa_520_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_seqqa_64", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_64_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_seqqa_14_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_seqqa_156_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_492", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "E", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_492_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_379", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "E", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_379_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_187_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_seqqa_216_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_seqqa_52_gpt", "task_type": "lab_bench_seqqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "B"}
+{"task_id": "eval1_patient_gene_detection_212_gpt", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ENSG00000161011", "ground_truth": "ENSG00000161011"}
+{"task_id": "eval1_patient_gene_detection_251", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "{\"causal_gene\": [\"ENSG00000179142\"]}", "ground_truth": "ENSG00000179142"}
+{"task_id": "eval1_patient_gene_detection_486_gpt", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ENSG00000075624", "ground_truth": "ENSG00000075624"}
+{"task_id": "eval1_patient_gene_detection_161_gpt", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ENSG00000133703", "ground_truth": "ENSG00000133703"}
+{"task_id": "eval1_patient_gene_detection_309_gpt", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ENSG00000111262", "ground_truth": "ENSG00000111262"}
+{"task_id": "eval1_patient_gene_detection_105", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "{\"causal_gene\": [\"ENSG00000165280\"]}", "ground_truth": "ENSG00000165280"}
+{"task_id": "eval1_patient_gene_detection_389_gpt", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ENSG00000143669", "ground_truth": "ENSG00000143669"}
+{"task_id": "eval1_patient_gene_detection_441_gpt", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ENSG00000102030", "ground_truth": "ENSG00000102030"}
+{"task_id": "eval1_patient_gene_detection_80", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "{\"causal_gene\": [\"ENSG00000105983\"]}", "ground_truth": "ENSG00000105983"}
+{"task_id": "eval1_patient_gene_detection_339", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "{\"causal_gene\": [\"ENSG00000130707\"]}", "ground_truth": "ENSG00000130707"}
+{"task_id": "eval1_patient_gene_detection_339_gpt", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ENSG00000130707", "ground_truth": "ENSG00000130707"}
+{"task_id": "eval1_patient_gene_detection_241_gpt", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ENSG00000010404", "ground_truth": "ENSG00000010404"}
+{"task_id": "eval1_patient_gene_detection_166", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "{\"causal_gene\": [\"ENSG00000204386\"]}", "ground_truth": "ENSG00000204386"}
+{"task_id": "eval1_patient_gene_detection_328", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "{\"causal_gene\": [\"ENSG00000176884\"]}", "ground_truth": "ENSG00000176884"}
+{"task_id": "eval1_patient_gene_detection_328_gpt", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ENSG00000176884", "ground_truth": "ENSG00000176884"}
+{"task_id": "eval1_patient_gene_detection_306", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "{\"causal_gene\": [\"ENSG00000165671\"]}", "ground_truth": "ENSG00000165671"}
+{"task_id": "eval1_patient_gene_detection_306_gpt", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ENSG00000165671", "ground_truth": "ENSG00000165671"}
+{"task_id": "eval1_patient_gene_detection_480", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "{\"causal_gene\": [\"ENSG00000101384\"]}", "ground_truth": "ENSG00000101384"}
+{"task_id": "eval1_patient_gene_detection_480_gpt", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ENSG00000101384", "ground_truth": "ENSG00000101384"}
+{"task_id": "eval1_patient_gene_detection_319_gpt", "task_type": "patient_gene_detection", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ENSG00000102580", "ground_truth": "ENSG00000102580"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1475", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "XPO1", "ground_truth": "XPO1"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1475_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "XPO1", "ground_truth": "XPO1"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_959", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "BTK", "ground_truth": "BTK"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_959_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "BTK", "ground_truth": "BTK"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_283", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "FOLR1", "ground_truth": "FOLR1"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_283_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "FOLR1", "ground_truth": "FOLR1"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_797_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CNR1", "ground_truth": "CNR1"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1378_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CD274", "ground_truth": "CD274"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_225_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "OXTR", "ground_truth": "OXTR"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_26_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SERPINC1", "ground_truth": "SERPINC1"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1497_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "KDR", "ground_truth": "KDR"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_37_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "C5", "ground_truth": "C5"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_749_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ADRB2", "ground_truth": "ADRB2"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1435", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "GLP1R", "ground_truth": "GLP1R"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1435_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "GLP1R", "ground_truth": "GLP1R"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_687_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "HTR4", "ground_truth": "HTR4"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1453_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PPARG", "ground_truth": "PPARG"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1218_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "MS4A1", "ground_truth": "MS4A1"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1158", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "NR1H4", "ground_truth": "NR1H4"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1158_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "NR1H4", "ground_truth": "NR1H4"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1403_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PPARA", "ground_truth": "PPARA"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1538", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "KCNJ11", "ground_truth": "KCNJ11"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1538_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "KCNJ11", "ground_truth": "KCNJ11"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_800", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "IL17RA", "ground_truth": "IL17RA"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_800_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "IL17RA", "ground_truth": "IL17RA"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_956_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "AXL", "ground_truth": "AXL"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1463_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "TOP2A", "ground_truth": "TOP2A"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_913_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CD274", "ground_truth": "CD274"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1549_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PLAU", "ground_truth": "PLAU"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_509_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "VEGFA", "ground_truth": "VEGFA"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1135_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "BRAF", "ground_truth": "BRAF"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1250_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "IL6R", "ground_truth": "IL6R"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1612", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "CCR4", "ground_truth": "CCR4"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1612_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CCR4", "ground_truth": "CCR4"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_586", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "TOP2A", "ground_truth": "TOP2A"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_586_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "TOP2A", "ground_truth": "TOP2A"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1572", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "SERPINA1", "ground_truth": "SERPINA1"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1572_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SERPINA1", "ground_truth": "SERPINA1"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1143_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "HTR2C", "ground_truth": "HTR2C"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_151_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CCR4", "ground_truth": "CCR4"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_403_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "F2", "ground_truth": "F2"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1640", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "IL4R", "ground_truth": "IL4R"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_1640_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "IL4R", "ground_truth": "IL4R"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_207", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "IL2RA", "ground_truth": "IL2RA"}
+{"task_id": "eval1_gwas_causal_gene_pharmaprojects_207_gpt", "task_type": "gwas_causal_gene_pharmaprojects", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "IL2RA", "ground_truth": "IL2RA"}
+{"task_id": "eval1_rare_disease_diagnosis_48_gpt", "task_type": "rare_disease_diagnosis", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "617193", "ground_truth": "{\"disease_name\": \"Encephalopathy, Progressive, Early-Onset, with Brain Atrophy and Thin Corpus Callo"}
+{"task_id": "eval1_rare_disease_diagnosis_57_gpt", "task_type": "rare_disease_diagnosis", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "255800", "ground_truth": "{\"disease_name\": \"Schwartz-Jampel syndrome\", \"OMIM_ID\": \"255800\"}"}
+{"task_id": "eval1_rare_disease_diagnosis_75", "task_type": "rare_disease_diagnosis", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "{'disease_name': 'Scalp-ear-nipple syndrome', 'OMIM_ID': '181270'}", "ground_truth": "{\"disease_name\": \"Scalp-ear-nipple syndrome\", \"OMIM_ID\": \"181270\"}"}
+{"task_id": "eval1_rare_disease_diagnosis_140_gpt", "task_type": "rare_disease_diagnosis", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "601680", "ground_truth": "{\"disease_name\": \"DA2B\", \"OMIM_ID\": \"601680\"}"}
+{"task_id": "eval1_rare_disease_diagnosis_37", "task_type": "rare_disease_diagnosis", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "{'disease_name': 'Acrofacial dysostosis 1, Nager type', 'OMIM_ID': '154400'}", "ground_truth": "{\"disease_name\": \"Nager acrofacial dysostosis\", \"OMIM_ID\": \"154400\"}"}
+{"task_id": "eval1_rare_disease_diagnosis_52_gpt", "task_type": "rare_disease_diagnosis", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "263750", "ground_truth": "{\"disease_name\": \"Postaxial acrofacial dysostosis\", \"OMIM_ID\": \"263750\"}"}
+{"task_id": "eval1_rare_disease_diagnosis_121_gpt", "task_type": "rare_disease_diagnosis", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "258480", "ground_truth": "{\"disease_name\": \"Opsismodysplasia\", \"OMIM_ID\": \"258480\"}"}
+{"task_id": "eval1_rare_disease_diagnosis_145_gpt", "task_type": "rare_disease_diagnosis", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "300000", "ground_truth": "{\"disease_name\": \"Opitz Gbbb Syndrome, Type 1\", \"OMIM_ID\": \"300000\"}"}
+{"task_id": "eval1_rare_disease_diagnosis_20", "task_type": "rare_disease_diagnosis", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "{\"disease_name\": \"Arthrogryposis, distal, type 2A (Freeman-Sheldon)\", \"OMIM_ID\": \"193700\"}", "ground_truth": "{\"disease_name\": \"Arthrogryposis, Distal, Type 2A\", \"OMIM_ID\": \"193700\"}"}
+{"task_id": "eval1_rare_disease_diagnosis_71", "task_type": "rare_disease_diagnosis", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "{\"disease_name\": \"Scalp-ear-nipple syndrome\", \"OMIM_ID\": \"181270\"}", "ground_truth": "{\"disease_name\": \"Scalp-ear-nipple syndrome\", \"OMIM_ID\": \"181270\"}"}
+{"task_id": "eval1_crispr_delivery_10", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "a", "ground_truth": "a"}
+{"task_id": "eval1_crispr_delivery_10_gpt", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "- Most relevant method (select one letter a-f): c", "ground_truth": "a"}
+{"task_id": "eval1_crispr_delivery_22_gpt", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "- Most relevant method (select one letter a-f): b", "ground_truth": "b"}
+{"task_id": "eval1_crispr_delivery_18_gpt", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "- Most relevant method (select one letter a-f): b", "ground_truth": "b"}
+{"task_id": "eval1_crispr_delivery_49_gpt", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "- Most relevant method (select one letter a-f): b", "ground_truth": "b"}
+{"task_id": "eval1_crispr_delivery_20", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "a", "ground_truth": "a"}
+{"task_id": "eval1_crispr_delivery_20_gpt", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "- Most relevant method (select one letter a-f): c", "ground_truth": "a"}
+{"task_id": "eval1_crispr_delivery_7_gpt", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "- Most relevant method (select one letter a-f): b", "ground_truth": "b"}
+{"task_id": "eval1_crispr_delivery_42_gpt", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "- Most relevant method (select one letter a-f): b", "ground_truth": "b"}
+{"task_id": "eval1_crispr_delivery_14", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "b", "ground_truth": "b"}
+{"task_id": "eval1_crispr_delivery_14_gpt", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "- Most relevant method (select one letter a-f): b", "ground_truth": "b"}
+{"task_id": "eval1_crispr_delivery_28_gpt", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "- Most relevant method (select one letter a-f): f", "ground_truth": "e"}
+{"task_id": "eval1_crispr_delivery_38", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "f", "ground_truth": "f"}
+{"task_id": "eval1_crispr_delivery_38_gpt", "task_type": "crispr_delivery", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "- Most relevant method (select one letter a-f): f", "ground_truth": "f"}
+{"task_id": "eval1_lab_bench_dbqa_207", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_207_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_212", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_212_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_295_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_dbqa_476", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "D", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_dbqa_476_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_dbqa_251", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_dbqa_511", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "E", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_dbqa_511_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_dbqa_477", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_477_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_269", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_dbqa_201_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_dbqa_161", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_161_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_43", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_43_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_217", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "E", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_dbqa_217_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_dbqa_401_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_190_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_dbqa_309_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_dbqa_259", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_259_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_105", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_dbqa_389_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_dbqa_1", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_1_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_460", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_dbqa_505", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_dbqa_49", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_dbqa_205_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_dbqa_34", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_dbqa_430_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_dbqa_263_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_dbqa_427_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_dbqa_493", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_493_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_366_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_91", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_dbqa_91_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_dbqa_339_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_495", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "D", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_dbqa_495_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_dbqa_52", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_dbqa_345_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_dbqa_241", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_241_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_13_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_dbqa_315_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_88", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "B", "ground_truth": "B"}
+{"task_id": "eval1_lab_bench_dbqa_387_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_273", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "C", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_dbqa_273_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]C[/ANSWER]", "ground_truth": "C"}
+{"task_id": "eval1_lab_bench_dbqa_166", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "E", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_dbqa_166_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]B[/ANSWER]", "ground_truth": "E"}
+{"task_id": "eval1_lab_bench_dbqa_328", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_328_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_514_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]D[/ANSWER]", "ground_truth": "D"}
+{"task_id": "eval1_lab_bench_dbqa_134", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "A", "ground_truth": "A"}
+{"task_id": "eval1_lab_bench_dbqa_134_gpt", "task_type": "lab_bench_dbqa", "benchmark": "eval1", "model": "GPT-4.1", "score": 0.8, "answer": "[ANSWER]E[/ANSWER]", "ground_truth": "A"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_767_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "HNF1A", "ground_truth": "HNF1A"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_619_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PPARG", "ground_truth": "PPARG"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_760", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "CHEK2", "ground_truth": "CHEK2"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_760_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CHEK2", "ground_truth": "CHEK2"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_645", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "RREB1", "ground_truth": "RREB1"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_645_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "RREB1", "ground_truth": "RREB1"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_556_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SLC2A9", "ground_truth": "SLC2A9"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_812", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "SLC30A8", "ground_truth": "SLC30A8"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_812_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SLC30A8", "ground_truth": "SLC30A8"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_577_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PCSK9", "ground_truth": "PCSK9"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_85_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "HNF1A", "ground_truth": "HNF1A"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_159_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "DPP4", "ground_truth": "DPP4"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_524_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PRODH", "ground_truth": "PRODH"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_540", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "SUCLG2", "ground_truth": "SUCLG2"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_540_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SUCLG2", "ground_truth": "SUCLG2"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_170", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "KCNJ11", "ground_truth": "KCNJ11"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_170_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "KCNJ11", "ground_truth": "KCNJ11"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_654", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "PCSK9", "ground_truth": "PCSK9"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_654_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PCSK9", "ground_truth": "PCSK9"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_728_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PCSK9", "ground_truth": "PCSK9"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_720", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "IL5", "ground_truth": "IL5"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_95_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PCSK9", "ground_truth": "PCSK9"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_240", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "ANPEP", "ground_truth": "ANPEP"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_240_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ANPEP", "ground_truth": "ANPEP"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_574_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PPARG", "ground_truth": "PPARG"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_690_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PAOX", "ground_truth": "PAOX"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_460", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "GCKR", "ground_truth": "GCKR"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_460_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "GCKR", "ground_truth": "GCKR"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_553_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "IL12B", "ground_truth": "IL12B"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_745_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "F5", "ground_truth": "F5"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_206_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "GC", "ground_truth": "GC"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_392_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "GCKR", "ground_truth": "GCKR"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_397_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "RREB1", "ground_truth": "RREB1"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_721", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "KCNH2", "ground_truth": "KCNH2"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_721_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "KCNH2", "ground_truth": "KCNH2"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_4_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "HMGCR", "ground_truth": "HMGCR"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_642_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "MC1R", "ground_truth": "MC1R"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_761_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "TNF", "ground_truth": "TNF"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_612_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PAM", "ground_truth": "PAM"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_546", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "HNF4A", "ground_truth": "HNF4A"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_546_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "HNF4A", "ground_truth": "HNF4A"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_683", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "RREB1", "ground_truth": "RREB1"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_683_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "RREB1", "ground_truth": "RREB1"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_573_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "GCKR", "ground_truth": "GCKR"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_502", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "AGPAT1", "ground_truth": "AGPAT1"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_502_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "AGPAT1", "ground_truth": "AGPAT1"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_32_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "PAX4", "ground_truth": "PAX4"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_134_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "THPO", "ground_truth": "THPO"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_817_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "COL11A1", "ground_truth": "COL11A1"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_489", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "F2", "ground_truth": "F2"}
+{"task_id": "eval1_gwas_causal_gene_opentargets_489_gpt", "task_type": "gwas_causal_gene_opentargets", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "F2", "ground_truth": "F2"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_541_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "NAT8", "ground_truth": "NAT8"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_85_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ACY3", "ground_truth": "ACY3"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_159", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "RNF213", "ground_truth": "RNF213"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_159_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "RNF213", "ground_truth": "RNF213"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_35_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "LONP1", "ground_truth": "LONP1"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_543_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "LPL", "ground_truth": "LPL"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_535_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "ACAN", "ground_truth": "ACAN"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_601", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_601_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_95_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "LPL", "ground_truth": "LPL"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_460_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_206_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SLC39A8", "ground_truth": "SLC39A8"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_392_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_397", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_397_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_536_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_4_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SLC39A8", "ground_truth": "SLC39A8"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_568_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_98", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "SULT1A1", "ground_truth": "SULT1A1"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_98_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SULT1A1", "ground_truth": "SULT1A1"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_47_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_200_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SLC39A8", "ground_truth": "SLC39A8"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_134_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_27_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SLC39A8", "ground_truth": "SLC39A8"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_230_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_378", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "R0", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_378_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_288_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_498_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "TMEM175", "ground_truth": "TMEM175"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_138_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "SLCO1B1", "ground_truth": "SLCO1B1"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_471_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "INHBB", "ground_truth": "INHBB"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_14_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "LPL", "ground_truth": "LPL"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_156_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "CETP", "ground_truth": "CETP"}
+{"task_id": "eval1_gwas_causal_gene_gwas_catalog_492_gpt", "task_type": "gwas_causal_gene_gwas_catalog", "benchmark": "eval1", "model": "GPT-4.1", "score": 1.0, "answer": "LONP1", "ground_truth": "LONP1"}
+{"task_id": "lab_SeqQA_train_567", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "When the provided DNA sequence is digested with MvaI restriction enzyme, exactly **2 fragments** will be produced: one large fragment of 947 base pairs and one smaller fragment of 51 base pairs.", "ground_truth": "2"}
+{"task_id": "lab_DbQA_train_12", "task_type": "DbQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Answer**: TGFBI", "ground_truth": "TGFBI"}
+{"task_id": "lab_LitQA2_train_129", "task_type": "LitQA2", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "[3] Circular dichroism provides critical information about secondary structure maintenance, confirming that denaturation has not occurred despite urea treatment.", "ground_truth": "circular dichroism"}
+{"task_id": "lab_SuppQA_train_43", "task_type": "SuppQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "</observation>", "ground_truth": "R "}
+{"task_id": "lab_SeqQA_train_563", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Answer: 4 fragments", "ground_truth": "4"}
+{"task_id": "lab_SeqQA_train_595", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Answer: 4 fragments", "ground_truth": "4"}
+{"task_id": "lab_SeqQA_train_594", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "[2] SphI creates 4 base 5' overhangs with recognition sequence G-CATGC-C", "ground_truth": "4"}
+{"task_id": "lab_DbQA_train_17", "task_type": "DbQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "PTH", "ground_truth": "PTH"}
+{"task_id": "lab_SeqQA_train_560", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "When digesting the given DNA sequence with AccB1I and HapII restriction enzymes, **7 fragments** should be expected.", "ground_truth": "7"}
+{"task_id": "lab_SeqQA_train_596", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Final Answer: 2 fragments", "ground_truth": "2"}
+{"task_id": "lab_DbQA_train_514", "task_type": "DbQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Answer:** One of the 11 genes: GSK3B, SRC, STAT1, CSNK2A1, ITGA4, STAT3, ARHGEF4, CDK2, GRB2, IL18, or TRIB3", "ground_truth": "CDK2"}
+{"task_id": "lab_SeqQA_train_578", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Answer: 3 fragments", "ground_truth": "3"}
+{"task_id": "lab_SeqQA_train_581", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "When the given DNA sequence is digested with AvaII restriction enzyme, it produces exactly 3 DNA fragments due to 2 cut sites located at positions 330 and 482 within the sequence.", "ground_truth": "3"}
+{"task_id": "lab_DbQA_train_198", "task_type": "DbQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Answer: One of [Hmga1, Htatip2, Rint1, Tsc1, Tsc2]", "ground_truth": "Tsc2"}
+{"task_id": "lab_LitQA2_train_194", "task_type": "LitQA2", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "GFAP (Glial Fibrillary Acidic Protein)", "ground_truth": "GFAP"}
+{"task_id": "lab_DbQA_train_146", "task_type": "DbQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "The other genes (Crebbp, Dicer1, Mir146, Msh6) also have established roles in cancer biology but are less specifically associated with hemolymphoid system tumors compared to Jak2.", "ground_truth": "Msh6"}
+{"task_id": "lab_SeqQA_train_575", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "2", "ground_truth": "2"}
+{"task_id": "lab_CloningScenarios_train_2", "task_type": "CloningScenarios", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "[2] White colonies in cloning experiments typically indicate disruption of reporter genes or failed assembly", "ground_truth": "White"}
+{"task_id": "lab_TableQA_train_68", "task_type": "TableQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Analysis conducted by Biomedical Assistant using systematic ranking methodology across standard machine learning performance metrics.", "ground_truth": "RF"}
+{"task_id": "lab_DbQA_train_1", "task_type": "DbQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "The genes associated with Currarino syndrome according to DisGeNet but not according to OMIM are: GDF11, VANGL2, VANGL1, SHH, ZIC3, HPGD, PAM16, FUZ, GDF6, MNX1-AS2, and PCSK5.", "ground_truth": "HPGD"}
+{"task_id": "lab_DbQA_train_176", "task_type": "DbQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Aip", "ground_truth": "Aip"}
+{"task_id": "lab_DbQA_train_500", "task_type": "DbQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "SRC, STAT1, CSNK2A1, EP300, STAT3, ARHGEF4, BRCA1, GRB2", "ground_truth": "EP300"}
+{"task_id": "lab_TableQA_train_50", "task_type": "TableQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "6001", "ground_truth": "6"}
+{"task_id": "lab_TableQA_train_42", "task_type": "TableQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "[1] Clinical study on effects of hepatic impairment on nilotinib pharmacokinetics, published in Clinical Therapeutics, ClinicalTrials.gov identifier: NCT00418626", "ground_truth": "2"}
+{"task_id": "lab_SeqQA_train_591", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Answer: 2 fragments", "ground_truth": "2"}
+{"task_id": "lab_TableQA_train_64", "task_type": "TableQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "[7] Effective penetration and labeling in thick, complex tissue sections through optimized reagent delivery", "ground_truth": "ISS"}
+{"task_id": "lab_SeqQA_train_569", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Answer: 2 fragments", "ground_truth": "2"}
+{"task_id": "lab_FigQA_train_63", "task_type": "FigQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "</think>", "ground_truth": "T"}
+{"task_id": "lab_SeqQA_train_574", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Answer: 8 fragments", "ground_truth": "8"}
+{"task_id": "lab_SeqQA_train_562", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Answer: 5 fragments", "ground_truth": "5"}
+{"task_id": "lab_DbQA_train_156", "task_type": "DbQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "[2] APC regulates β-catenin stability and controls the Wnt-dependent transcriptional program that drives colon tumor development", "ground_truth": "Apc"}
+{"task_id": "lab_DbQA_train_170", "task_type": "DbQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Answer**: The gene set MP_INCREASED_MYELOID_SARCOMA_INCIDENCE contains 6 genes: Asxl1, Dicer1, Fbxo4, Fdxr, Mir146, and Nfe2.", "ground_truth": "Nfe2"}
+{"task_id": "lab_SeqQA_train_590", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "Answer: 6 fragments", "ground_truth": "6"}
+{"task_id": "lab_SeqQA_train_583", "task_type": "SeqQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "[2] Direct digestion simulation confirmed 3 fragments with lengths 752 bp, 29 bp, and 219 bp", "ground_truth": "3"}
+{"task_id": "lab_DbQA_train_101", "task_type": "DbQA", "benchmark": "lab-bench", "model": "both", "score": 1.0, "answer": "A", "ground_truth": "UBA3"}
